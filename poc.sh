@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -e"Made By Taylor Christian Newsome"
+
 echo -e "Choose an option:"
 echo -e "1: Add all users to the sudo group"
 echo -e "2: Remove all users from the sudo group"
